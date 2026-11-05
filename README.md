@@ -1,6 +1,6 @@
-<h1 align="center">Привет, я Bakhtiyor Sattorov 👋</h1>
+<h1 align="center">Hi, I'm Bakhtiyor Sattorov 👋</h1>
 <p align="center">
-  Разработчик: Telegram-боты, автоматизация бизнеса и приложения для macOS и десктопа
+  Developer building Telegram bots, business automation, and native apps for macOS and desktop
 </p>
 
 <p align="center">
@@ -17,25 +17,25 @@
 
 ---
 
-### 🧑‍💻 Чем занимаюсь
-- 🤖 **Telegram-боты** для бизнеса: учёт, трекинг, уведомления, ИИ-ассистенты
-- 🚚 **Системы для логистики и таксопарков**: путевые листы, админки, приложения для водителей
-- 🍏 **Приложения для macOS** на SwiftUI
-- 🖥 **Десктоп-приложения** на C++/Qt и Electron
-- ⚙️ **Серверы и автоматизация**: Linux, Docker, n8n, GitHub Actions
+### 🧑‍💻 What I do
+- 🤖 **Telegram bots** for business: tracking, accounting, notifications, AI assistants
+- 🚚 **Logistics and fleet management systems**: waybills, admin panels, driver apps
+- 🍏 **macOS apps** with SwiftUI
+- 🖥 **Desktop apps** with C++/Qt and Electron
+- ⚙️ **Servers and automation**: Linux, Docker, n8n, GitHub Actions
 
-### 🚀 Избранные проекты
+### 🚀 Featured projects
 
-| Проект | Что это | Стек |
+| Project | Description | Stack |
 |---|---|---|
-| [**Konverter**](https://github.com/Sattorov-stack/konverter) | Офлайн-конвертер файлов с «колесом форматов»: видео, аудио, фото, PDF, OCR, удаление фона, увеличение фото ИИ | SwiftUI · Electron · FFmpeg |
-| [**NotchApp**](https://github.com/Sattorov-stack/notch-app) | Меню под «чёлкой» MacBook: навёл мышь, и меню раскрылось | Swift · macOS 15+ |
-| **Karavan Express** | Система для грузоперевозок: десктоп-клиент, сервер, веб | C++17 · Qt 6 · Node.js |
-| **AI Agent** | Telegram ИИ-агент с локальной LLM | Python · Ollama |
-| **Server Guard** | Панель мониторинга и защиты сервера | React · TypeScript · Vite |
-| **Daily Spark** | Конвейер: подбирает популярные видео и публикует их по расписанию | Python · GitHub Actions · rclone |
+| [**Konverter**](https://github.com/Sattorov-stack/konverter) | Offline file converter with a radial "format wheel": video, audio, images, PDF, OCR, background removal, AI upscaling | SwiftUI · Electron · FFmpeg |
+| [**NotchApp**](https://github.com/Sattorov-stack/notch-app) | A menu that lives under the MacBook notch: hover to open, move away to close | Swift · macOS 15+ |
+| **Karavan Express** | Freight delivery platform: desktop client, server, and web | C++17 · Qt 6 · Node.js |
+| **AI Agent** | Telegram AI agent powered by a local LLM | Python · Ollama |
+| **Server Guard** | Server monitoring and protection dashboard | React · TypeScript · Vite |
+| **Daily Spark** | Pipeline that picks trending videos and publishes them on a schedule | Python · GitHub Actions · rclone |
 
-### 📫 Связь
+### 📫 Contact
 <p>
   <a href="https://t.me/sntl_x"><img src="https://img.shields.io/badge/Telegram-@sntl__x-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:bahtiersattorov385@gmail.com"><img src="https://img.shields.io/badge/Email-bahtiersattorov385@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
