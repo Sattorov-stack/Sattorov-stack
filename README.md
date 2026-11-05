@@ -28,8 +28,8 @@
 
 | Проект | Что это | Стек |
 |---|---|---|
-| **Konverter** | Офлайн-конвертер файлов с «колесом форматов»: видео, аудио, фото, PDF, OCR, удаление фона, увеличение фото ИИ | SwiftUI · Electron · FFmpeg |
-| **NotchApp** | Меню под «чёлкой» MacBook: навёл мышь, и меню раскрылось | Swift · macOS 15+ |
+| [**Konverter**](https://github.com/Sattorov-stack/konverter) | Офлайн-конвертер файлов с «колесом форматов»: видео, аудио, фото, PDF, OCR, удаление фона, увеличение фото ИИ | SwiftUI · Electron · FFmpeg |
+| [**NotchApp**](https://github.com/Sattorov-stack/notch-app) | Меню под «чёлкой» MacBook: навёл мышь, и меню раскрылось | Swift · macOS 15+ |
 | **Karavan Express** | Система для грузоперевозок: десктоп-клиент, сервер, веб | C++17 · Qt 6 · Node.js |
 | **AI Agent** | Telegram ИИ-агент с локальной LLM | Python · Ollama |
 | **Server Guard** | Панель мониторинга и защиты сервера | React · TypeScript · Vite |
